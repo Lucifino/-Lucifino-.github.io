@@ -1,0 +1,26 @@
+p{
+
+	color: white;
+	text-align: center;
+}
+
+h2{
+	color: white;
+	text-align: center;
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+body {
+
+	background-image: url("wall.jpg");
+}
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
